@@ -25,6 +25,9 @@ Output: [["a"]]
 strs[i] consists of lowercase English letters.
     </pre>
 <h1>Solution 1: Hashmap</h1>
+
+![July-blog-header-Anagram](https://github.com/albrran/Group-Anagrams-Daily-Leetcode-Challenge/assets/120284166/b8896330-e851-4f48-9d6f-efd2159a550c)
+
 <h1>Explanation of Anagram Grouping Code</h1>
     <pre>
         <code>
